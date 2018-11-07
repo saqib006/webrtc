@@ -1,0 +1,14 @@
+{
+  "name": "webrtc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "author": "saqib",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
